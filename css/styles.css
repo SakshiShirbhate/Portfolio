@@ -1,0 +1,118 @@
+.body{
+ font-family: 'Ubuntu', sans-serif;
+}
+
+#title {
+  background-color: #B4DDF7;
+  font-family: 'Ubuntu', sans-serif;
+
+}
+.container-md{
+
+   padding: 3%;
+}
+
+h1{
+  font-family: 'Ubuntu', sans-serif;
+  font-size:3rem;
+  line-height:1.5;
+  color:#162E71;
+}
+
+h2{
+  font-family: 'Ubuntu', sans-serif;
+  font-size:2rem;
+  line-height:1.5;
+  color:#162E71;
+}
+
+h3{
+  font-family: 'Ubuntu', sans-serif;
+  font-size:2rem;
+  line-height:1.5;
+  color:#162E71;
+}
+
+
+/* navigation bar */
+.navbar{
+  padding: 0 1rem;
+}
+
+
+.nav-item{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight:bold;
+  font-size:1rem;
+  color:#162E71; 
+  padding: 0 10px; 
+}
+
+/*  feature section */
+#features{
+  padding: 0 15%;
+}
+ .features-box{
+  text-align:left;
+  padding: 5%;
+ }
+ p{
+  color: #8f8f8f;
+  font-family: 'Ubuntu', sans-serif;
+ }
+
+
+/* Testimonials */
+
+#Quotes{
+  padding: 7% 15%; 
+  text-align:centre;
+  background-color:#162E71;
+
+}
+
+h5{
+  font-family: 'Ubuntu', sans-serif;
+  font-size:1.6rem;
+  line-height:1;
+  color: #fff;
+}
+
+h4{
+  font-family: 'Ubuntu', sans-serif;
+  font-size:2rem;
+  text-align: center;
+  line-height: 1;
+  color: #7C067C;
+  padding: 2%;
+}
+
+#cta{
+  padding: 5% 20%; 
+  text-align:centre;
+  background-color:#B4DDF7;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+
+.form-row{
+  padding: 2% 1%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
